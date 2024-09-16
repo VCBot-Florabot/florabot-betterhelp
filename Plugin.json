@@ -1,10 +1,10 @@
 {
-    "PluginName": "插件名",
+    "PluginName": "Betterhelp",
     "DependentLibraries": null,
-    "IsLibraries": false,
+    "IsLibraries": true,
     "PluginIcon": null,
-    "PluginAuthor": "插件作者",
-    "MainPyName": "插件主 .py 文件名, 不要带上 .py 后缀名",
-    "PluginDescription": "插件描述",
+    "PluginAuthor": "luyanci",
+    "MainPyName": "help",
+    "PluginDescription": "为FloraBot插件社区提供一个帮助的规范",
     "EnablePlugin": true
 }

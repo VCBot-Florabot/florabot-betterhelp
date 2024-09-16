@@ -1,0 +1,30 @@
+[
+    {
+        "command": "help",
+        "content": "获取由本插件生成的帮助信息"
+    },
+    {
+        "command": "/插件列表",
+        "content": "florabot内置命令，获取插件列表"
+    },
+    {
+        "command": "/启用插件",
+        "content": "florabot内置命令，启用对应id的插件"
+    },
+    {
+        "command": "/禁用插件",
+        "content": "florabot内置命令，禁用对应id的插件"
+    },
+    {
+        "command": "/重载插件",
+        "content": "florabot内置命令，重载所有插件"
+    },
+    {
+        "command": "/echo",
+        "content": "florabot内置测试命令，返回输入的内容，并回复原消息"
+    },
+    {
+        "command": "/echo1",
+        "content": "florabot内置测试命令，返回输入的内容"
+    }
+]
